@@ -1,0 +1,15 @@
+2024-12-17 22:07:04 - SystemControlService - INFO - Opened application: msedge with PID 23848
+2024-12-17 22:07:13 - SystemControlService - INFO - Opened application: terminal with PID 9252
+2024-12-17 22:07:43 - SystemControlService - INFO - Opened application: firefox with PID 9712
+2024-12-17 22:08:06 - SystemControlService - INFO - Opened application: code with PID 10832
+2024-12-17 22:08:17 - SystemControlService - INFO - Opened application: code with PID 14828
+2024-12-17 22:13:04 - SystemControlService - ERROR - Failed to capture screenshot: Failed to capture screenshot
+2024-12-17 22:13:45 - SystemControlService - INFO - Opened application: msedge with PID 8248
+2024-12-17 22:13:52 - SystemControlService - INFO - Opened application: firefox with PID 10876
+2024-12-17 22:14:05 - SystemControlService - INFO - Opened application: chrome with PID 23960
+2024-12-17 22:14:13 - SystemControlService - INFO - Opened application: terminal with PID 22476
+2024-12-17 22:39:36 - SystemControlService - ERROR - Failed to capture screenshot: Failed to capture screenshot
+2024-12-17 22:40:45 - SystemControlService - ERROR - Failed to capture screenshot: name 'PrtSc' is not defined
+2024-12-17 22:42:49 - SystemControlService - ERROR - Failed to capture screenshot: name 'PRTSC' is not defined
+2024-12-17 22:44:06 - SystemControlService - INFO - Screenshot captured: screenshot.png
+2024-12-17 23:02:37 - SystemControlService - INFO - Computer locked
